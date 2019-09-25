@@ -1,0 +1,43 @@
+#tag MultiImage
+Image stackview
+	#tag ImageRepresentation
+		SaveInfo = APHRcwECAQAAAAF0AAAAAAF0AAIAAAxNYWNpbnRvc2ggSEQAAAAAAAAAAAAAAAAAAAAAAAAAQkQAAf////8Nc3RhY2t2aWV3LnBuZwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA/////wAAAAAAAAAAAAAAAP////8AAAogY3UAAAAAAAAAAAAAAAAABkltYWdlcwACAD8vOlVzZXJzOndyajpYb2pvIFByb2plY3RzOkZsZWV0IE1hbmFnZW1lbnQ6SW1hZ2VzOnN0YWNrdmlldy5wbmcAAA4AHAANAHMAdABhAGMAawB2AGkAZQB3AC4AcABuAGcADwAaAAwATQBhAGMAaQBuAHQAbwBzAGgAIABIAEQAEgA9VXNlcnMvd3JqL1hvam8gUHJvamVjdHMvRmxlZXQgTWFuYWdlbWVudC9JbWFnZXMvc3RhY2t2aWV3LnBuZwAAEwABLwAAFQACAAr//wAAAAAAAAAA
+		FullPath = /Users/wrj/Xojo Projects/Fleet Management/Images/stackview.png
+		PartialPath = Images\stackview.png
+		#tag ImageSpecification
+			Comment = 
+			Device = 31
+			HSize = 32.00
+			Orientation = Any
+			Platform = 15
+			PPI = 72
+			VSize = 32.00
+		#tag EndImageSpecification
+	#tag EndImageRepresentation
+	#tag ImageRepresentation
+		SaveInfo = APHRcwECAQAAAAF8AAAAAAF8AAIAAAxNYWNpbnRvc2ggSEQAAAAAAAAAAAAAAAAAAAAAAAAAQkQAAf////8Pc3RhY2t2aWV3QDIucG5nAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA/////wAAAAAAAAAAAAAAAP////8AAAogY3UAAAAAAAAAAAAAAAAABkltYWdlcwACAEEvOlVzZXJzOndyajpYb2pvIFByb2plY3RzOkZsZWV0IE1hbmFnZW1lbnQ6SW1hZ2VzOnN0YWNrdmlld0AyLnBuZwAADgAgAA8AcwB0AGEAYwBrAHYAaQBlAHcAQAAyAC4AcABuAGcADwAaAAwATQBhAGMAaQBuAHQAbwBzAGgAIABIAEQAEgA/VXNlcnMvd3JqL1hvam8gUHJvamVjdHMvRmxlZXQgTWFuYWdlbWVudC9JbWFnZXMvc3RhY2t2aWV3QDIucG5nAAATAAEvAAAVAAIACv//AAAAAAAAAAA=
+		FullPath = /Users/wrj/Xojo Projects/Fleet Management/Images/stackview@2.png
+		PartialPath = Images\stackview@2.png
+		#tag ImageSpecification
+			Comment = 
+			Device = 31
+			HSize = 32.00
+			Orientation = Any
+			Platform = 15
+			PPI = 144
+			VSize = 32.00
+		#tag EndImageSpecification
+	#tag EndImageRepresentation
+	#tag ImageRepresentation
+		#tag ImageSpecification
+			Comment = 
+			Device = 31
+			HSize = 32.00
+			Orientation = Any
+			Platform = 15
+			PPI = 216
+			VSize = 32.00
+		#tag EndImageSpecification
+	#tag EndImageRepresentation
+End Image
+#tag EndMultiImage

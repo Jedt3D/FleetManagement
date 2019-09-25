@@ -1,0 +1,43 @@
+#tag MultiImage
+Image solar
+	#tag ImageRepresentation
+		SaveInfo = APHRcwECAQAAAAFkAAAAAAFkAAIAAAxNYWNpbnRvc2ggSEQAAAAAAAAAAAAAAAAAAAAAAAAAQkQAAf////8Jc29sYXIucG5nAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA/////wAAAAAAAAAAAAAAAP////8AAAogY3UAAAAAAAAAAAAAAAAABkltYWdlcwACADsvOlVzZXJzOndyajpYb2pvIFByb2plY3RzOkZsZWV0IE1hbmFnZW1lbnQ6SW1hZ2VzOnNvbGFyLnBuZwAADgAUAAkAcwBvAGwAYQByAC4AcABuAGcADwAaAAwATQBhAGMAaQBuAHQAbwBzAGgAIABIAEQAEgA5VXNlcnMvd3JqL1hvam8gUHJvamVjdHMvRmxlZXQgTWFuYWdlbWVudC9JbWFnZXMvc29sYXIucG5nAAATAAEvAAAVAAIACv//AAAAAAAAAAA=
+		FullPath = /Users/wrj/Xojo Projects/Fleet Management/Images/solar.png
+		PartialPath = Images\solar.png
+		#tag ImageSpecification
+			Comment = 
+			Device = 31
+			HSize = 32.00
+			Orientation = Any
+			Platform = 15
+			PPI = 72
+			VSize = 32.00
+		#tag EndImageSpecification
+	#tag EndImageRepresentation
+	#tag ImageRepresentation
+		SaveInfo = APHRcwECAQAAAAFuAAAAAAFuAAIAAAxNYWNpbnRvc2ggSEQAAAAAAAAAAAAAAAAAAAAAAAAAQkQAAf////8Mc29sYXJAMngucG5nAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA/////wAAAAAAAAAAAAAAAP////8AAAogY3UAAAAAAAAAAAAAAAAABkltYWdlcwACAD4vOlVzZXJzOndyajpYb2pvIFByb2plY3RzOkZsZWV0IE1hbmFnZW1lbnQ6SW1hZ2VzOnNvbGFyQDJ4LnBuZwAOABoADABzAG8AbABhAHIAQAAyAHgALgBwAG4AZwAPABoADABNAGEAYwBpAG4AdABvAHMAaAAgAEgARAASADxVc2Vycy93cmovWG9qbyBQcm9qZWN0cy9GbGVldCBNYW5hZ2VtZW50L0ltYWdlcy9zb2xhckAyeC5wbmcAEwABLwAAFQACAAr//wAAAAAAAAAA
+		FullPath = /Users/wrj/Xojo Projects/Fleet Management/Images/solar@2x.png
+		PartialPath = Images\solar@2x.png
+		#tag ImageSpecification
+			Comment = 
+			Device = 31
+			HSize = 32.00
+			Orientation = Any
+			Platform = 15
+			PPI = 144
+			VSize = 32.00
+		#tag EndImageSpecification
+	#tag EndImageRepresentation
+	#tag ImageRepresentation
+		#tag ImageSpecification
+			Comment = 
+			Device = 31
+			HSize = 32.00
+			Orientation = Any
+			Platform = 15
+			PPI = 216
+			VSize = 32.00
+		#tag EndImageSpecification
+	#tag EndImageRepresentation
+End Image
+#tag EndMultiImage

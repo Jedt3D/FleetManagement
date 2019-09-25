@@ -1,0 +1,43 @@
+#tag MultiImage
+Image economic
+	#tag ImageRepresentation
+		SaveInfo = APHRcwECAQAAAAFuAAAAAAFuAAIAAAxNYWNpbnRvc2ggSEQAAAAAAAAAAAAAAAAAAAAAAAAAQkQAAf////8MZWNvbm9taWMucG5nAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA/////wAAAAAAAAAAAAAAAP////8AAAogY3UAAAAAAAAAAAAAAAAABkltYWdlcwACAD4vOlVzZXJzOndyajpYb2pvIFByb2plY3RzOkZsZWV0IE1hbmFnZW1lbnQ6SW1hZ2VzOmVjb25vbWljLnBuZwAOABoADABlAGMAbwBuAG8AbQBpAGMALgBwAG4AZwAPABoADABNAGEAYwBpAG4AdABvAHMAaAAgAEgARAASADxVc2Vycy93cmovWG9qbyBQcm9qZWN0cy9GbGVldCBNYW5hZ2VtZW50L0ltYWdlcy9lY29ub21pYy5wbmcAEwABLwAAFQACAAr//wAAAAAAAAAA
+		FullPath = /Users/wrj/Xojo Projects/Fleet Management/Images/economic.png
+		PartialPath = Images\economic.png
+		#tag ImageSpecification
+			Comment = 
+			Device = 31
+			HSize = 32.00
+			Orientation = Any
+			Platform = 15
+			PPI = 72
+			VSize = 32.00
+		#tag EndImageSpecification
+	#tag EndImageRepresentation
+	#tag ImageRepresentation
+		SaveInfo = APHRcwECAQAAAAF8AAAAAAF8AAIAAAxNYWNpbnRvc2ggSEQAAAAAAAAAAAAAAAAAAAAAAAAAQkQAAf////8PZWNvbm9taWNAMngucG5nAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA/////wAAAAAAAAAAAAAAAP////8AAAogY3UAAAAAAAAAAAAAAAAABkltYWdlcwACAEEvOlVzZXJzOndyajpYb2pvIFByb2plY3RzOkZsZWV0IE1hbmFnZW1lbnQ6SW1hZ2VzOmVjb25vbWljQDJ4LnBuZwAADgAgAA8AZQBjAG8AbgBvAG0AaQBjAEAAMgB4AC4AcABuAGcADwAaAAwATQBhAGMAaQBuAHQAbwBzAGgAIABIAEQAEgA/VXNlcnMvd3JqL1hvam8gUHJvamVjdHMvRmxlZXQgTWFuYWdlbWVudC9JbWFnZXMvZWNvbm9taWNAMngucG5nAAATAAEvAAAVAAIACv//AAAAAAAAAAA=
+		FullPath = /Users/wrj/Xojo Projects/Fleet Management/Images/economic@2x.png
+		PartialPath = Images\economic@2x.png
+		#tag ImageSpecification
+			Comment = 
+			Device = 31
+			HSize = 32.00
+			Orientation = Any
+			Platform = 15
+			PPI = 144
+			VSize = 32.00
+		#tag EndImageSpecification
+	#tag EndImageRepresentation
+	#tag ImageRepresentation
+		#tag ImageSpecification
+			Comment = 
+			Device = 31
+			HSize = 32.00
+			Orientation = Any
+			Platform = 15
+			PPI = 216
+			VSize = 32.00
+		#tag EndImageSpecification
+	#tag EndImageRepresentation
+End Image
+#tag EndMultiImage

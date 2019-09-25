@@ -1,0 +1,43 @@
+#tag MultiImage
+Image period
+	#tag ImageRepresentation
+		SaveInfo = APHRcwECAQAAAAFmAAAAAAFmAAIAAAxNYWNpbnRvc2ggSEQAAAAAAAAAAAAAAAAAAAAAAAAAQkQAAf////8KcGVyaW9kLnBuZwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA/////wAAAAAAAAAAAAAAAP////8AAAogY3UAAAAAAAAAAAAAAAAABkltYWdlcwACADwvOlVzZXJzOndyajpYb2pvIFByb2plY3RzOkZsZWV0IE1hbmFnZW1lbnQ6SW1hZ2VzOnBlcmlvZC5wbmcADgAWAAoAcABlAHIAaQBvAGQALgBwAG4AZwAPABoADABNAGEAYwBpAG4AdABvAHMAaAAgAEgARAASADpVc2Vycy93cmovWG9qbyBQcm9qZWN0cy9GbGVldCBNYW5hZ2VtZW50L0ltYWdlcy9wZXJpb2QucG5nABMAAS8AABUAAgAK//8AAAAAAAAAAA==
+		FullPath = /Users/wrj/Xojo Projects/Fleet Management/Images/period.png
+		PartialPath = Images\period.png
+		#tag ImageSpecification
+			Comment = 
+			Device = 31
+			HSize = 32.00
+			Orientation = Any
+			Platform = 15
+			PPI = 72
+			VSize = 32.00
+		#tag EndImageSpecification
+	#tag EndImageRepresentation
+	#tag ImageRepresentation
+		SaveInfo = APHRcwECAQAAAAF0AAAAAAF0AAIAAAxNYWNpbnRvc2ggSEQAAAAAAAAAAAAAAAAAAAAAAAAAQkQAAf////8NcGVyaW9kQDJ4LnBuZwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA/////wAAAAAAAAAAAAAAAP////8AAAogY3UAAAAAAAAAAAAAAAAABkltYWdlcwACAD8vOlVzZXJzOndyajpYb2pvIFByb2plY3RzOkZsZWV0IE1hbmFnZW1lbnQ6SW1hZ2VzOnBlcmlvZEAyeC5wbmcAAA4AHAANAHAAZQByAGkAbwBkAEAAMgB4AC4AcABuAGcADwAaAAwATQBhAGMAaQBuAHQAbwBzAGgAIABIAEQAEgA9VXNlcnMvd3JqL1hvam8gUHJvamVjdHMvRmxlZXQgTWFuYWdlbWVudC9JbWFnZXMvcGVyaW9kQDJ4LnBuZwAAEwABLwAAFQACAAr//wAAAAAAAAAA
+		FullPath = /Users/wrj/Xojo Projects/Fleet Management/Images/period@2x.png
+		PartialPath = Images\period@2x.png
+		#tag ImageSpecification
+			Comment = 
+			Device = 31
+			HSize = 32.00
+			Orientation = Any
+			Platform = 15
+			PPI = 144
+			VSize = 32.00
+		#tag EndImageSpecification
+	#tag EndImageRepresentation
+	#tag ImageRepresentation
+		#tag ImageSpecification
+			Comment = 
+			Device = 31
+			HSize = 32.00
+			Orientation = Any
+			Platform = 15
+			PPI = 216
+			VSize = 32.00
+		#tag EndImageSpecification
+	#tag EndImageRepresentation
+End Image
+#tag EndMultiImage

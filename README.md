@@ -1,1 +1,14 @@
-FleetManagement
+1. Home
+2. Load
+3. Generation
+4. Maintenance
+5. Fuel
+6. Hydro
+7. Wind
+8. Solar
+9. Economic
+10. Annual
+11. Period
+12. StackView
+13. Setting
+14. Help

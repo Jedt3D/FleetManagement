@@ -1,0 +1,43 @@
+#tag MultiImage
+Image LoginTitle
+	#tag ImageRepresentation
+		SaveInfo = APHRcwECAQAAAAF8AAAAAAF8AAIAAAxNYWNpbnRvc2ggSEQAAAAAAAAAAAAAAAAAAAAAAAAAQkQAAf////8PbG9naW5fdGl0bGUucG5nAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA/////wAAAAAAAAAAAAAAAP////8AAAogY3UAAAAAAAAAAAAAAAAABkltYWdlcwACAEEvOlVzZXJzOndyajpYb2pvIFByb2plY3RzOkZsZWV0IE1hbmFnZW1lbnQ6SW1hZ2VzOmxvZ2luX3RpdGxlLnBuZwAADgAgAA8AbABvAGcAaQBuAF8AdABpAHQAbABlAC4AcABuAGcADwAaAAwATQBhAGMAaQBuAHQAbwBzAGgAIABIAEQAEgA/VXNlcnMvd3JqL1hvam8gUHJvamVjdHMvRmxlZXQgTWFuYWdlbWVudC9JbWFnZXMvbG9naW5fdGl0bGUucG5nAAATAAEvAAAVAAIACv//AAAAAAAAAAA=
+		FullPath = /Users/wrj/Xojo Projects/Fleet Management/Images/login_title.png
+		PartialPath = Images\login_title.png
+		#tag ImageSpecification
+			Comment = 
+			Device = 31
+			HSize = 400.00
+			Orientation = Any
+			Platform = 15
+			PPI = 72
+			VSize = 50.00
+		#tag EndImageSpecification
+	#tag EndImageRepresentation
+	#tag ImageRepresentation
+		SaveInfo = APHRcwECAQAAAAGGAAAAAAGGAAIAAAxNYWNpbnRvc2ggSEQAAAAAAAAAAAAAAAAAAAAAAAAAQkQAAf////8SbG9naW5fdGl0bGVAMngucG5nAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA/////wAAAAAAAAAAAAAAAP////8AAAogY3UAAAAAAAAAAAAAAAAABkltYWdlcwACAEQvOlVzZXJzOndyajpYb2pvIFByb2plY3RzOkZsZWV0IE1hbmFnZW1lbnQ6SW1hZ2VzOmxvZ2luX3RpdGxlQDJ4LnBuZwAOACYAEgBsAG8AZwBpAG4AXwB0AGkAdABsAGUAQAAyAHgALgBwAG4AZwAPABoADABNAGEAYwBpAG4AdABvAHMAaAAgAEgARAASAEJVc2Vycy93cmovWG9qbyBQcm9qZWN0cy9GbGVldCBNYW5hZ2VtZW50L0ltYWdlcy9sb2dpbl90aXRsZUAyeC5wbmcAEwABLwAAFQACAAr//wAAAAAAAAAA
+		FullPath = /Users/wrj/Xojo Projects/Fleet Management/Images/login_title@2x.png
+		PartialPath = Images\login_title@2x.png
+		#tag ImageSpecification
+			Comment = 
+			Device = 31
+			HSize = 400.00
+			Orientation = Any
+			Platform = 15
+			PPI = 144
+			VSize = 50.00
+		#tag EndImageSpecification
+	#tag EndImageRepresentation
+	#tag ImageRepresentation
+		#tag ImageSpecification
+			Comment = 
+			Device = 31
+			HSize = 400.00
+			Orientation = Any
+			Platform = 15
+			PPI = 216
+			VSize = 50.00
+		#tag EndImageSpecification
+	#tag EndImageRepresentation
+End Image
+#tag EndMultiImage
